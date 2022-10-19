@@ -77,3 +77,6 @@ a{
     background-color: rgb(148, 7, 94) ;
 }
 
+.input-group{
+    border: 30px solid rgb(148, 7, 94);
+}
