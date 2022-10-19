@@ -1,0 +1,79 @@
+*{
+    font-family: 'Open Sans', sans-serif; 
+}
+section{
+    padding: 60px 0px;
+}
+
+
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.html, body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.navitema a{
+    color: white;
+}
+
+.navitemb a{
+    color: white;
+}
+
+.navitemc{
+    background-color: rgb(148, 7, 94) !important;
+    border-radius: 12px;
+    
+}
+
+.navitemb{
+    background-color: rgb(148, 7, 94) !important;
+    border-radius: 12px;
+    
+}
+
+.navitema{
+    background-color: white;
+    box-shadow:5px 5px 10px rgb(90, 87, 69);
+    border-radius: 10px;
+    
+}
+
+.navlink{
+    background-color: rgb(148, 7, 94) !important;
+    
+
+}
+
+
+
+.navbar-brand{
+    color: rgb(148, 7, 94) !important;
+}
+
+#loose{
+    background:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/img/cta-bg.jpg);
+    background-attachment: fixed;
+    height: 300px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.oma, .lay, .buju, .ayo{
+   
+}
+
+#footer{
+    background-color: rgb(148, 7, 94) ;
+}
+
