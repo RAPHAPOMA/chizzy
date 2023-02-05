@@ -20,47 +20,23 @@ section{
     background-color: white;
 }
 
-.navitema a{
-    color: white;
+.nenye{
+    font-size: 2rem;
 }
 
-.navitemb a{
-    color: white;
+.soul{
+   font-size: 3rem; 
 }
 
-.navitemc{
-    background-color: rgb(148, 7, 94) !important;
-    border-radius: 12px;
-    
-}
-
-.navitemb{
-    background-color: rgb(148, 7, 94) !important;
-    border-radius: 12px;
-    
-}
-
-.navitema{
-    background-color: white;
-    box-shadow:5px 5px 10px rgb(90, 87, 69);
-    border-radius: 10px;
-    
-}
-
-.navlink{
-    background-color: rgb(148, 7, 94) !important;
-    
-
-}
 
 
 
 .navbar-brand{
-    color: rgb(148, 7, 94) !important;
+    color: rgb(5, 92, 19) !important;
 }
 
 #loose{
-    background:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/img/cta-bg.jpg);
+    background:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/img/ai\ pics.jpg);
     background-attachment: fixed;
     height: 300px;
 }
@@ -74,10 +50,60 @@ a{
    
 }
 
+#tools{
+    margin-top: 50px !important;
+}
+
 #footer{
-    background-color: rgb(148, 7, 94) ;
+    background-color: rgb(223,255,226) ;
 }
 
 .input-group{
-    border: 30px solid rgb(148, 7, 94);
+    align-items: center;
+    justify-content: center;   
+}
+
+.btn-search{
+    background: #424242;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #1c1c1c;
+    
+}
+
+.btn-search:link, .btn-search:hover{
+    color: #fff;
+}
+
+.btn-search:active, .btn-search:hover{
+    background: #1c1c1c;
+    color: #fff;
+}
+
+.game{
+    gap: 200px !important;
+}
+
+.juve{
+    font-size: 30px;
+}
+
+.kaka{
+    gap: 100px !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.stan{
+    font-size: 10px;
+}
+
+.philo{
+    margin-top: 10px;
+}
+
+.whyne{
+    color: rgb(148, 7, 94);
 }
