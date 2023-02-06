@@ -25,7 +25,7 @@ section{
 }
 
 .soul{
-   font-size: 3rem; 
+   font-size: 4rem; 
 }
 
 
@@ -62,6 +62,16 @@ a{
     align-items: center;
     justify-content: center;   
 }
+
+.pic1:hover img{
+    transform: scale(1.1);
+}
+
+.pic1 img{
+    transition: all 0.5s ease;
+}
+
+
 
 .btn-search{
     background: #424242;
@@ -107,7 +117,9 @@ a{
 }
 
 .fan{
-    padding: 18px 5px 18px 5px;
+    padding: 19px 5px 19px 5px;
+    border-radius: 4px;
+    background-color: #0A58CA;
 }
 
 .philo{
