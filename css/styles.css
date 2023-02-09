@@ -71,6 +71,11 @@ a{
     transition: all 0.5s ease;
 }
 
+aj{
+    align-items: center !important;
+    justify-content: center !important;
+}
+
 
 
 .btn-search{
