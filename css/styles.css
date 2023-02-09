@@ -38,7 +38,7 @@ section{
 #loose{
     background:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/img/ai\ pics.jpg);
     background-attachment: fixed;
-    height: 300px;
+    height: 400px;
 }
 
 a{
@@ -74,6 +74,14 @@ a{
 aj{
     align-items: center !important;
     justify-content: center !important;
+}
+
+.tecla a{
+    background-color: whitesmoke;
+    border-radius: 10px;
+   color: #424242;
+   padding: 7px 7px 7px 7px;
+
 }
 
 
@@ -133,4 +141,8 @@ aj{
 
 .whyne{
     color: rgb(148, 7, 94);
+}
+
+.rem{
+    gap: 500px !important;
 }
