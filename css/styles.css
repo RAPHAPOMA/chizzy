@@ -5,6 +5,13 @@ section{
     padding: 60px 0px;
 }
 
+.harry a{
+    background-color: #0A58CA;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px 10px 10px 10px;
+}
+
 
 
 .navbar-brand{
