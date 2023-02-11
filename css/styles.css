@@ -146,6 +146,13 @@ aj{
     margin-top: 10px;
 }
 
+.raga a{
+    border-radius: 10px;
+    background-color: bisque;
+    color: black;
+    padding: 10px 5px 10px 5px;
+}
+
 .whyne{
     color: rgb(148, 7, 94);
 }
